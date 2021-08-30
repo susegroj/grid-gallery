@@ -1,0 +1,7 @@
+@import '@styles/mixins';
+
+.main-home {
+  @include flex(column, nowrap);
+  gap: 2rem;
+  height: 100%;
+}
