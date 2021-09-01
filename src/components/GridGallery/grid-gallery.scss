@@ -67,7 +67,7 @@
 
     &-info {
       @include flex(column, wrap, flex-end);
-      background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.8477766106442577) 53%);
+      background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgba(0, 0, 0, 0.4) 53%);
       bottom: 0;
       color: var(--white);
       gap: 0.2rem;
